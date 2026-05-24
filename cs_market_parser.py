@@ -62,3 +62,5 @@ while x < 3141:
     x += 1
     time.sleep(2)
 browser.quit()
+
+#ЭТО ПОЯВИТЬСЯ НА ВТОРОМ КАМИТЕ
